@@ -122,6 +122,6 @@ Through this project I learned:
 
 ## Author
 
-Sayush Kumar
+Sayush Kumar Keshari
 
 Embedded Systems | ARM Cortex-M | STM32 | Bare-Metal Programming
